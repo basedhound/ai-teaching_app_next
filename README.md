@@ -37,7 +37,7 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Build and deploy Converso—your AI-powered learning companion platform—using Next.js, Vapi, and Clerk. Empower users to create bespoke, voice-driven courses (“Companions”), run real-time conversational lessons with low-latency voice powered by Vapi, and track learner progress—all behind a secure, subscription-based gateway powered by Clerk.
+Build and deploy Converso—your AI-powered learning companion platform—using Next.js, Vapi, and Clerk. Empower users to create bespoke, voice-driven courses (“Companions”), run real-time conversational lessons with low-latency voice powered by Vapi, and manage billing and authentication through a secure, subscription-based system powered by Clerk.
 
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
