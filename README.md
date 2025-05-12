@@ -150,4 +150,3 @@ detailed explanations, cool features, and exercises to boost your skills. Give i
 <a href="https://jsm.dev/converso-nextjs" target="_blank">
   <img src="public/readme/jsmpro.jpg" alt="Project Banner">
 </a>
-# ai-teaching-app_next
