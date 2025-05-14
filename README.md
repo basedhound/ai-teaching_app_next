@@ -64,25 +64,28 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="features">🔋 Features</a>
 
+👉 **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
+
 👉 **Authentication**: Secure user sign-up and sign-in with Clerk; Google authentication and many more.
 
-👉 **Appwrite as a backend**: Benefit from Appwrite's integrated authentication system and database - everything the backend needs in one place.
+👉 **Billing & Subscriptions**: Easily manage plans, upgrades, and payment details.
 
-👉 **AI Voice Agents**: Take tutoring session with voiced AIs specializing in the topics you want to get better at.
-
-👉 **Create a tutor**: Create your own AI tutors, choosing a subject, topic, and style of conversation.
-
-👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
-
-👉 **Search Functionality**: Find tutors quickly with robust filters and search bar.
-
-👉 **Bookmarks and session history**: Let users organise their learning by bookmarking the tutors and having access to a list of their previous sessions.
-
-👉 **Scalable Tech Stack**: Built with Next.js for a fast, production-ready web application that scales seamlessly.
+👉 **Bookmarks and Session History**: Let users organise their learning by bookmarking tutors and accessing previous sessions.
 
 👉 **Code Reusability**: Leverage reusable components and a modular codebase for efficient development.
 
+👉 **Create a Tutor**: Create your own AI tutors, choosing a subject, topic, and style of conversation.
+
 👉 **Cross-Device Compatibility**: Fully responsive design that works seamlessly across all devices.
+
+👉 **Database Integration**: Uses Supabase for real-time data handling and storage needs.
+
+👉 **Modern UI/UX**: Clean, responsive design built with Tailwind CSS and shadcn/ui for a sleek user experience.
+
+👉 **Scalable Tech Stack**: Built with Next.js for a fast, production-ready web application that scales seamlessly.
+
+👉 **Search Functionality**: Find tutors quickly with robust filters and search bar.
+
 
 And many more, including enhanced security and optimized video performance!
 
