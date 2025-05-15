@@ -24,7 +24,7 @@ export const voices = {
 export const recentSessions = [
   {
     id: "1",
-    category: "science",
+    subject: "science",
     name: "Neura the Brainy Explorer",
     topic: "Neural Network of the Brain",
     duration: 45,
@@ -32,7 +32,7 @@ export const recentSessions = [
   },
   {
     id: "2",
-    category: "maths",
+    subject: "maths",
     name: "Countsy the Number Wizard",
     topic: "Derivatives & Integrals",
     duration: 30,
@@ -40,7 +40,7 @@ export const recentSessions = [
   },
   {
     id: "3",
-    category: "language",
+    subject: "language",
     name: "Verba the Vocabulary Builder",
     topic: "English Literature",
     duration: 30,
@@ -48,7 +48,7 @@ export const recentSessions = [
   },
   {
     id: "4",
-    category: "coding",
+    subject: "coding",
     name: "Codey the Logic Hacker",
     topic: "Intro to If-Else Statements",
     duration: 45,
@@ -56,7 +56,7 @@ export const recentSessions = [
   },
   {
     id: "5",
-    category: "history",
+    subject: "history",
     name: "Memo, the Memory Keeper",
     topic: "World Wars: Causes & Consequences",
     duration: 15,
@@ -64,34 +64,10 @@ export const recentSessions = [
   },
   {
     id: "6",
-    category: "economics",
+    subject: "economics",
     name: "The Market Maestro",
     topic: "The Basics of Supply & Demand",
     duration: 10,
     color: "#C8FFDF",
-  },
-  {
-    id: "7",
-    category: "geography",
-    name: "GeoMax, the Map Master",
-    topic: "Oceans of the World",
-    duration: 20,
-    color: "#FFCCCC",
-  },
-  {
-    id: "8",
-    category: "finance",
-    name: "Finny the Financial Wizard",
-    topic: "Investing 101",
-    duration: 15,
-    color: "#C8FFFB",
-  },
-  {
-    id: "9",
-    category: "business",
-    name: "The Growth Expert",
-    topic: "Scaling your business successfully",
-    duration: 10,
-    color: "#FCFFBD",
   },
 ];
