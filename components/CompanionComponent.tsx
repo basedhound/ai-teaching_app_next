@@ -6,6 +6,7 @@ import { vapi } from "@/lib/vapi.sdk";
 import soundwaves from "@/constants/soundwaves.json";
 import { LottieRefCurrentProps } from "lottie-react";
 import dynamic from "next/dynamic";
+import { addToSessionHistory } from "@/lib/actions/companion.actions";
 
 const Lottie = dynamic(() => import("lottie-react"), {
   ssr: false,
@@ -66,6 +67,7 @@ const CompanionCompnent = ({
 
     const onCallEnd = () => {
       setCallStatus(CallStatus.FINISHED);
+      addToSessionHistory(companionId);
     };
 
     const onMessage = (message: Message) => {
