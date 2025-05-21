@@ -1,8 +1,7 @@
 import CTA from "@/components/CTA";
-
 import CompanionCard from "@/components/CompanionCard";
 import CompanionsList from "@/components/CompanionsList";
-import { recentSessions } from "@/constants";
+// import { recentSessions } from "@/constants";
 import {
   getAllCompanions,
   getRecentSessions,
