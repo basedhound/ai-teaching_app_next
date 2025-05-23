@@ -25,6 +25,7 @@ export default async function Home() {
             topic={companion.topic}
             subject={companion.subject}
             duration={companion.duration}
+            bookmarked={companion.bookmarked}
             color={getSubjectColor(companion.subject)}
           />
         ))}
