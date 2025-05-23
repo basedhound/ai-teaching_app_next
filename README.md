@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="" target="_blank">
+    <a href="converso-fv.vercel.app" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
   <br />
@@ -12,37 +12,21 @@
   </div>
 
   <h3 align="center">Full Stack Real-time Teaching Platform with AI</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
+1. 🌟 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets](#links)
-6. 🚀 [More](#more)
-
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
-Build and deploy Converso—your AI-powered learning companion platform—using Next.js, Vapi, and Clerk. Empower users to create bespoke, voice-driven courses (“Companions”), run real-time conversational lessons with low-latency voice powered by Vapi, and manage billing and authentication through a secure, subscription-based system powered by Clerk.
+3. 📝 [Features](#features)
+4. 🚀 [Quick Start](#quick-start)
 
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
+## <a name="introduction">🌟 Introduction</a>
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+**`[EN]`** Converso is an AI-powered learning app built with Next.js, Vapi, and Clerk. It enables users to create custom, voice-driven courses (“Companions”), participate in real-time conversational lessons with smooth, low-latency voice powered by Vapi, and easily manage authentication and billing through a secure subscription system powered by Clerk.
+
+**`[FR]`** Converso est une application d’apprentissage intelligente propulsée par l’IA, développée avec Next.js, Vapi et Clerk. Elle permet aux utilisateurs de créer des cours sur mesure, animés par la voix (« Companions »), de suivre des leçons conversationnelles en temps réel avec une voix fluide et à faible latence grâce à Vapi, et de gérer simplement l’authentification et la facturation via un système d’abonnement sécurisé assuré par Clerk.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -64,7 +48,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 * **[Vapi](https://jsm.dev/converso-vapi)** is a developer-centric voice AI platform that enables the creation of conversational voice agents with low-latency voice interactions, speech-to-text, and text-to-speech capabilities. It supports multilingual conversations, customizable voices, and seamless integration with various AI models and tools.
 
 
-## <a name="features">🔋 Features</a>
+## <a name="features">📝 Features</a>
 
 👉 **AI Voice Agents**: Take tutoring sessions with voiced AIs specializing in the topics you want to get better at.
 
@@ -89,10 +73,10 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Search Functionality**: Find tutors quickly with robust filters and search bar.
 
 
-And many more, including enhanced security and optimized video performance!
+And many more, including code architecture and reusability.
 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="quick-start">🚀 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
@@ -151,22 +135,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## <a name="links">🔗 Assets</a>
-
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/converso-kit)**.
-
-<a href="https://jsm.dev/converso-kit" target="_blank">
-  <img src="public/readme/videokit.jpg" alt="Video Kit Banner">
-</a>
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsm.dev/converso-nextjs" target="_blank">
-  <img src="public/readme/jsmpro.jpg" alt="Project Banner">
-</a>
