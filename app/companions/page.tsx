@@ -30,6 +30,7 @@ const CompanionsPage = async ({ searchParams }: SearchParams) => {
             subject={companion.subject}
             topic={companion.topic}
             duration={companion.duration}
+            bookmarked={companion.bookmarked}
             color={getSubjectColor(companion.subject)}
           />
         ))}
