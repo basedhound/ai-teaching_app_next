@@ -91,7 +91,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone {repository url}
+git clone {remote URL}
 ```
 
 **Installation**
