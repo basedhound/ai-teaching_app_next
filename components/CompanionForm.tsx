@@ -23,7 +23,7 @@ import {
 } from "@/components/ui/select";
 import { subjects } from "@/constants";
 import { Textarea } from "./ui/textarea";
-import { createCompanion } from "@/lib/actions/companion.actions";
+import {createCompanion} from "@/lib/actions/companion.actions";
 import { redirect } from "next/navigation";
 
 const FormSchema = z.object({
